@@ -9,5 +9,6 @@
         
         public Nodo sig;
         public string Nombre;
+	public String Pelas talla;
     }
 }
