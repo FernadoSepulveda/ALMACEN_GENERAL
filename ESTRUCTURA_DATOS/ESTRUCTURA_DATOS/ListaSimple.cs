@@ -20,7 +20,7 @@ namespace ESTRUCTURA_DATOS
         private Nodo First;
         private Nodo Current;
         private Nodo Last;
-
+ 
         public void setSize(int cant)
         {
             size = cant;
