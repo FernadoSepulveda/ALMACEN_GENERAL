@@ -1,0 +1,6 @@
+c:\users\acti\documents\visual studio 2013\Projects\ESTRUCTURA_DATOS\ESTRUCTURA_DATOS\bin\Debug\ESTRUCTURA_DATOS.exe.config
+c:\users\acti\documents\visual studio 2013\Projects\ESTRUCTURA_DATOS\ESTRUCTURA_DATOS\bin\Debug\ESTRUCTURA_DATOS.exe
+c:\users\acti\documents\visual studio 2013\Projects\ESTRUCTURA_DATOS\ESTRUCTURA_DATOS\bin\Debug\ESTRUCTURA_DATOS.pdb
+c:\users\acti\documents\visual studio 2013\Projects\ESTRUCTURA_DATOS\ESTRUCTURA_DATOS\obj\Debug\ESTRUCTURA_DATOS.csprojResolveAssemblyReference.cache
+c:\users\acti\documents\visual studio 2013\Projects\ESTRUCTURA_DATOS\ESTRUCTURA_DATOS\obj\Debug\ESTRUCTURA_DATOS.exe
+c:\users\acti\documents\visual studio 2013\Projects\ESTRUCTURA_DATOS\ESTRUCTURA_DATOS\obj\Debug\ESTRUCTURA_DATOS.pdb

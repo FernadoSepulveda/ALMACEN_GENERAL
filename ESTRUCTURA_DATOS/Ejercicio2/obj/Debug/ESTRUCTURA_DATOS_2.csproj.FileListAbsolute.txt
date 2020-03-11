@@ -1,0 +1,6 @@
+c:\users\acti\documents\visual studio 2013\Projects\ESTRUCTURA_DATOS\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+c:\users\acti\documents\visual studio 2013\Projects\ESTRUCTURA_DATOS\Ejercicio2\bin\Debug\Ejercicio2.exe
+c:\users\acti\documents\visual studio 2013\Projects\ESTRUCTURA_DATOS\Ejercicio2\bin\Debug\Ejercicio2.pdb
+c:\users\acti\documents\visual studio 2013\Projects\ESTRUCTURA_DATOS\Ejercicio2\obj\Debug\Ejercicio2.exe
+c:\users\acti\documents\visual studio 2013\Projects\ESTRUCTURA_DATOS\Ejercicio2\obj\Debug\Ejercicio2.pdb
+c:\users\acti\documents\visual studio 2013\Projects\ESTRUCTURA_DATOS\Ejercicio2\obj\Debug\ESTRUCTURA_DATOS_2.csprojResolveAssemblyReference.cache
